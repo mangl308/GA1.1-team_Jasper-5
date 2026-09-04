@@ -5,8 +5,8 @@
 
 General Notes:
 
-Hugo:
+Hugo and corne:
 
-Added function multiply2 (a, b); multiplies a times b
+Added function multiply (a, b); multiplies a times b
 
 
